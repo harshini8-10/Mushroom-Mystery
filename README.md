@@ -20,13 +20,13 @@ The project showcases advanced classification techniques and evaluates model per
 5. Participate in Kaggle Contest: Compete with other data scientists and secure a top rank.
 
 ## Key Files
-Mushroom_Mystery.ipynb: The Jupyter Notebook with data processing, analysis, and model training code.
+Mushroom_Mystery.ipynb : The Jupyter Notebook with data processing, analysis, and model training code.
 
-train.csv: Training dataset with target labels.
+train.csv : Training dataset with target labels.
 
-test.csv: Test dataset without target labels.
+test.csv : Test dataset without target labels.
 
-Mushroom3a.csv: Final predictions for Kaggle submission.
+Mushroom3a.csv : Final predictions for Kaggle submission.
 
 ## Technologies Used
 **Programming Language:** Python
@@ -62,6 +62,7 @@ Mushroom3a.csv: Final predictions for Kaggle submission.
 ## Pre-requisites
 
 **Library Installation**:  
+
 Install the following libraries before running the script:  
 
 !pip install pandas numpy scikit-learn lightgbm xgboost matplotlib seaborn category-encoders
