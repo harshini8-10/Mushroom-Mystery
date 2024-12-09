@@ -60,6 +60,7 @@ Mushroom3a.csv: Final predictions for Kaggle submission.
 **spore-print-color, habitat, season:** Environmental and lifecycle factors.
 
 ## Pre-requisites
+
 **Library Installation**:  
 Install the following libraries before running the script:  
 
