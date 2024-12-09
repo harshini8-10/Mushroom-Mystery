@@ -21,31 +21,42 @@ The project showcases advanced classification techniques and evaluates model per
 
 ## Key Files
 Mushroom_Mystery.ipynb: The Jupyter Notebook with data processing, analysis, and model training code.
+
 train.csv: Training dataset with target labels.
+
 test.csv: Test dataset without target labels.
+
 Mushroom3a.csv: Final predictions for Kaggle submission.
 
 ## Technologies Used
 **Programming Language:** Python
+
 **Libraries:** pandas, numpy, scikit-learn, lightgbm, xgboost, matplotlib, seaborn, and others.
 
 ## Dataset
 ### Train Dataset:
 
 **Features:** 21 predictors (both categorical and numerical).
+
 **Rows:** 1,048,574
+
 **Target Variable:** Binary (class - e for edible, p for poisonous).
 
 ### Test Dataset:
 
 **Features:** 21 predictors
+
 **Rows:** 1,048,575
 
 ### Key Features:
 **cap-diameter:** Diameter of the mushroom cap (numeric).
+
 **cap-shape, cap-surface, cap-color:** Categorical features describing cap characteristics.
+
 **gill-spacing, gill-attachment, gill-color:** Describing gill attributes.
+
 **stem-height, stem-width, stem-color:** Numeric and categorical stem features.
+
 **spore-print-color, habitat, season:** Environmental and lifecycle factors.
 
 ## Pre-requisites
