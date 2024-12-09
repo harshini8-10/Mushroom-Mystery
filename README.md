@@ -22,6 +22,7 @@ The project showcases advanced classification techniques and evaluates model per
 ## Key Files
 Mushroom_Mystery.ipynb : The Jupyter Notebook with data processing, analysis, and model training code.
 
+[DOWNLOAD FROM] [https://www.kaggle.com/competitions/playground-series-s4e8/data]
 train.csv : Training dataset with target labels.
 
 test.csv : Test dataset without target labels.
