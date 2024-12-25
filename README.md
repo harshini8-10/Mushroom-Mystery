@@ -33,7 +33,7 @@ Mushroom3a.csv : Final predictions for Kaggle submission.
 ## Technologies Used
 **Programming Language:** Python
 
-**Libraries:** pandas, numpy, scikit-learn, lightgbm, xgboost, matplotlib, seaborn, and others.
+**Libraries:** pandas, numpy, scikit-learn, lightgbm, catboost, randomforest, matplotlib, seaborn, and others.
 
 ## Dataset
 ### Train Dataset:
